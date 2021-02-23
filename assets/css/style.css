@@ -1,0 +1,88 @@
+body {
+    background: url("../images/gaming10.jpg") no-repeat center center fixed;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   color: #fafafa;
+}
+
+section,nav,header,footer{
+border:1px solid #fafafa;
+padding:.5em;
+margin-bottom:1em;}
+
+#navbarNav a {
+    color: #fafafa;
+}  
+.navbar-brand {
+    font-size: 200%;
+    
+}
+
+.nav-item {
+    font-size: 120%;
+    
+}
+
+.container h1 {
+    text-align: center;
+    padding: 5%;
+}
+
+.container p {
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+ .container i {
+     justify-content: center;
+ }
+
+ #social a {
+     color:yellow;
+     padding: 30px;
+ }
+
+.caption {
+    display: block;
+    clear: both;
+    text-align: center;
+    font-size: 25px;
+    color: yellow;
+}
+
+ul {
+    letter-spacing: 1px;
+    padding: 20px;
+    font-weight: 500;
+}
+ul li {
+    padding: 20px;
+    font-weight: 500;
+}
+#pros i {
+    color: rgb(67, 247, 112);
+}
+#cons i {
+    color: red;
+}
+h3 {
+    color: yellow;
+}
+
+.checked {
+  color: yellow;
+}
+
+.heading h1 {
+    color: yellow;
+}
+
+#social p {
+   color: yellow;
+}
+
